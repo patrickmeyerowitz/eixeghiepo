@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://azeesheeli.tgt.ai/sitemap.xml
